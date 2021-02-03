@@ -1,0 +1,112 @@
+[
+  {
+    "nome": "Bicicleta",
+    "descricao": "Trek - Aro 16 - Cor laranja",
+    "imagem": "Produto_01.webp",
+    "preco": 1799.99
+  },
+  {
+    "nome": "Bicicleta",
+    "descricao": "Dropp Z3 - Aro 29 - Com 21 marchas",
+    "imagem": "Produto_02.jpg",
+    "preco": 1799.99
+  },
+  {
+    "nome": "Bicicleta",
+    "descricao": "Feel - Aro 26 - Com 21 marchars",
+    "imagem": "Produto_03.jpg",
+    "preco": 999.99
+  },
+  {
+    "nome": "Bicicleta",
+    "descricao": "Groove - Aro 29 - Com 21 marchas",
+    "imagem": "Produto_04.jpg",
+    "preco": 2399.99
+  },
+  {
+    "nome": "Bicicleta",
+    "descricao": "Ksw - Aro 29 - Com 24 marchas",
+    "imagem": "Produto_05.jpg",
+    "preco": 1722
+  },
+  {
+    "nome": "Bicicleta",
+    "descricao": "Woltz - Aro 29 - Com 21 marchas",
+    "imagem": "Produto_06.jpg",
+    "preco": 949.99
+  },
+  {
+    "nome": "Bicicleta",
+    "descricao": "Power - Aro 26 - Com 18 marchas",
+    "imagem": "Produto_07.webp",
+    "preco": 459
+  },
+  {
+    "nome": "Bicicleta",
+    "descricao": "Caloi Strada 2017 - SPEED - Com 16 marchas",
+    "imagem": "Produto_08.webp",
+    "preco": 2799
+  },
+  {
+    "nome": "Bicicleta",
+    "descricao": "Caloi TR-10s - SPEED - Com 16 marchas",
+    "imagem": "Produto_09.webp",
+    "preco": 3800.9
+  },
+  {
+
+    "nome": "Capacete",
+    "descricao": "tipo:passeio - Tamanho P a G",
+    "imagem": "Produto_10.jpg",
+
+    "preco": 199.9
+  },
+  {
+
+    "nome": "Capacete",
+    "descricao": "tipo:ciclismo - Tamanho P a G",
+    "imagem": "Produto_11.webp",
+
+    "preco": 259.9
+  },
+  {
+
+    "nome": "Luz",
+    "descricao": "Frontal + Cronômetro (resistente à agua)",
+    "imagem": "Produto_12.jpg",
+
+    "preco": 199
+  },
+  {
+
+    "nome": "Luz",
+    "descricao": "traseira de LED",
+    "imagem": "Produto_13 - dar erro.webp",
+
+    "preco": 49.99
+  },
+  {
+
+    "nome": "Buzina",
+    "descricao": "WG",
+    "imagem": "Produto_14.jpg",
+
+    "preco": 21.9
+  },
+  {
+
+    "nome": "Buzina",
+    "descricao": "Ar bike",
+    "imagem": "Produto_15.webp",
+
+    "preco": 39.99
+  },
+  {
+
+    "nome": "Teste",
+    "descricao": "Teste",
+    "imagem": "Produto_15.webp",
+
+    "preco": 39.99
+  }
+]
